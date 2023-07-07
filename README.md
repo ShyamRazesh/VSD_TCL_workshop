@@ -1,1 +1,8 @@
 # VSD_TCL_workshop
+TCL WORKSHOP: FROM INTRODUCTION TO ADVANCED SCRIPTING TECHNIQUES IN VLSI DESIGN AND SYNTHESIS
+_______________________________________________________________________________________________________________
+Author: A Shyam Razesh
+
+Acknowledgments: TCL Workshop by Mr. Kunal Ghosh, VLSI System Design
+__________________________________________________________________________________________________________________________
+INTRODUCTION:
