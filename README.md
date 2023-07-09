@@ -12,5 +12,8 @@ Tcl, short for "Tool Command Language," is a dynamic scripting language that was
 Tcl is an interpreted language, meaning that it doesn't require a separate compilation step before executing the code. It follows a command-driven approach, where commands and their arguments are used to perform specific actions. This makes Tcl highly expressive and concise, allowing developers to achieve complex tasks with minimal code.
 
 Overall, Tcl is a powerful yet easy-to-learn scripting language that offers flexibility, extensibility, and broad applicability across different domains. Whether you're a beginner or an experienced programmer, Tcl provides a useful toolset for developing and automating applications efficiently.
+_______________________________________________________________________________________________________________________________________________
+DAY-1
 
-Links for easy navigation:
+Before Executing the command in terminal dont forget to provide the permission to it using
+![image](https://github.com/ShyamRazesh/VSD_TCL_workshop/assets/138649249/6dec3ec2-ca3f-4e53-8387-72426f9191e7)
