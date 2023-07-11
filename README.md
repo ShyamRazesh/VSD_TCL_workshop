@@ -25,5 +25,8 @@ Create the command using the algorithm
 ![image](https://github.com/ShyamRazesh/VSD_TCL_workshop/assets/138649249/8d54d65d-14e6-4213-8ca7-1a00d1e731dc)
 
 Check for user errors and help
+
 Scenario 1
+![image](https://github.com/ShyamRazesh/VSD_TCL_workshop/assets/138649249/ff81d375-9ae5-4fa3-8182-c7ca044fdeb9)
+
 user doesnot provide the .csv file
