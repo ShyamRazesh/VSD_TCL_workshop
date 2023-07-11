@@ -18,10 +18,12 @@ DAY-1
 Before Executing the command in terminal dont forget to provide the permission to it using
 ![image](https://github.com/ShyamRazesh/VSD_TCL_workshop/assets/138649249/6dec3ec2-ca3f-4e53-8387-72426f9191e7)
 
-1.Creating the logo/welcome command(SHYRAZ)
+Creating the logo/welcome command(SHYRAZ)
 ![image](https://github.com/ShyamRazesh/VSD_TCL_workshop/assets/138649249/6f69b9bb-0d62-4a2e-ba17-0cc1188306c9)
 
-2.create the command using the algorithm
+Create the command using the algorithm
 ![image](https://github.com/ShyamRazesh/VSD_TCL_workshop/assets/138649249/8d54d65d-14e6-4213-8ca7-1a00d1e731dc)
 
-
+Check for user errors and help
+Scenario 1
+user doesnot provide the .csv file
